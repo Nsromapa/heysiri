@@ -68,6 +68,8 @@ Complete list of Siri commands
 
 > **NOTE:** Requires Apple Podcast App.
 
+|  **Siri Command** | Response |
+| :--- | :--- |
 |  **Play sports news from ESPN.** | Plays pre-recorded hourly news update from ESPN. |
 |  **Play business news from Bloomberg.** | Plays pre-recorded hourly news update from Bloomberg. |
 |  **Play business news from CNBC..** | Plays pre-recorded hourly news update from CNBC. |
