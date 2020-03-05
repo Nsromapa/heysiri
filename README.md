@@ -5,7 +5,9 @@ Complete list of Siri commands, updated March 2020.
 ## Overview
 
 + Siri commands are tested in iOS 13.
-+ Using AirPods while becoming more familiar Siri commands can be useful if you want avoid touching device screens.
++ Works well with AirPods.
++ Knowing more Siri commands will allow you to do more in hands-free mode.
++ Hands-free mode helps avoid contact with germs on surfaces.
 + Some commands require pre-installed apps developed by Apple.
 
 
