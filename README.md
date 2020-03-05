@@ -76,6 +76,8 @@ Complete list of Siri commands
 |  **Pressure.** | Returns the barometric pressure for a location. |
 |  **High temperature.** | Returns the high temperature for a location. |
 |  **Low temperature.** | Returns the low temperature for a location. |
+|  **Wind chill.** | Returns the wind chill temperature for a location. |
+|  **UV index.** | Returns UV index for a location. |
 |  **Will it rain today?** | Answers the question based on chance of rain. |
 |  **Do I need an umbrella?** | Answers the question based on chance of rain. |
 
@@ -156,5 +158,8 @@ Complete list of Siri commands
 |  **Sunset temperature in London.** | Returns the temperature around sunset in London. |
 |  **Wind speed in Palm Springs.** | Returns the wind speed in Palm Springs. |
 |  **Sunrise temperature in Seattle tomorrow.** | Returns the sunrise temperature in Seattle tomorrow morning. |
+|  **Sunrise temperature in the North Pole.** | Returns the sunrise temperature at the North Pole. |
+|  **Wind chill in Minneapolis.** | Returns the wind chill temperature in Minneapolis. |
+|  **UV index Syndey Australia.** | Returns current UV index forecast for Syndey. |
 
 [mtm]: https://markdowntablemaker.com/mtm/about
