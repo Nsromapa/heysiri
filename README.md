@@ -131,6 +131,7 @@ Complete list of Siri commands, updated March 2020.
 |  **Clorox opening price.** | Returns the opening price for Clorox. |
 |  **Clorox closing price.** | Returns the closing price for Clorox. |
 |  **P/E ratio for Clorox.** | Returns the price-earnings ratio for Clorox. |
+|  **What is the yield for ticker symbol CLX?** | Returns the yield for Clorox. |
 |  **What is the current price of gold?** | *Commodity information is not available at this time.* |
 |  **What is the closing price of silver?** | *Commodity information is not available at this time.* |
 
