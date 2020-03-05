@@ -183,6 +183,8 @@ Complete list of Siri commands, updated March 2020.
 
 ## Siri Flashlight Commands
 
+> **NOTE:** Availability depends on devices. Works on iPhone 11.
+
 |  **Siri Command** | Response |
 | :--- | :--- |
 |  **Turn on flashlight.** | Turns on camera LED light. |
