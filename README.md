@@ -1,5 +1,5 @@
 # heysiri
-Complete list of Siri commands, as of March 2020
+Complete list of Siri commands, updated March 2020.
 
 
 ## Overview
