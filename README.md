@@ -5,6 +5,7 @@ Complete list of Siri commands, updated March 2020.
 ## Overview
 
 + Siri commands are tested in iOS 13.
++ Using AirPods while becoming more familiar Siri commands can be useful if you want avoid touching device screens.
 + Some commands require pre-installed apps developed by Apple.
 
 
