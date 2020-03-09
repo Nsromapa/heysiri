@@ -17,10 +17,6 @@ Complete list of Siri commands, updated March 2020.
 |  **Time.** | Returns the current time. |
 |  **Current time.** | Returns the current time. |
 |  **Time in London.** | Returns the current time in London. |
-
-
-|  **Siri Command** | Response |
-| :--- | :--- |
 |  **Daylight saving time.** | Provides the calendar start and end dates for DST. |
 
 
