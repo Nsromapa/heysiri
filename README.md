@@ -17,7 +17,7 @@ Complete list of Siri commands, updated March 2020.
 |  **Siri Command** | Response |
 | :--- | :--- |
 |  **Define geometry.** | Returns definition of the word geometry. |
-|  **Spell Mississippi.** | Returns the letter-by-letter audio spelling of Mississippi. Requires Silent Mode off. |
+|  **Spell Mississippi.** | Returns the audio spelling of Mississippi. Requires Silent Mode off. |
 |  **How many letters in Mississippi?** | Returns the total number of characters in Mississippi. |
 |  **How many characters in Mississippi?** | Returns the total number of characters in Mississippi. |
 |  **What song is this?** | Prompts user to provide music for audio scan and search. |
