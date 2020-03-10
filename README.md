@@ -219,10 +219,12 @@ to the challenge. |
 |  **Siri Command** | Response |
 | :--- | :--- |
 |  **Play KNX 1070.** | Plays live stream of radio station KNX 1070 (Los Angeles). |
+|  **Play KFI AM 640.** | Plays live stream of radio station KFI AM 640 (Los Angeles). |
 |  **Play KCBS 740.** | Plays live stream of radio station KCBS 740 (San Francisco). |
 |  **Play KMOX 1120.** | Plays live stream of radio station KMOS 1120 (St. Louis). |
 |  **Play 1010 WINS.** | Plays live stream of radio station 1010 WINS (New York). |
-|  **Play WBUR.** | Plays live stream of radio station WBUR 90.9 (Boston). |
+|  **Play 710 WOR.** | Plays live stream of radio station 710 WOR (New York). |
+|  **Play WBUR.** | Plays live stream of radio station WBUR 90.9 FM (Boston). |
 |  **Search David Bowie in iTunes Store.** | Returns music search results for David Bowie. |
 |  **Search David Bowie music.** | Returns music search results for David Bowie. |
 
