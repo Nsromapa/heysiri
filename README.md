@@ -26,7 +26,7 @@ Complete list of Siri commands, updated March 2020.
 |  **Distance from Salesforce Tower to the Space Needle.** | Returns the distance by car and by bird. |
 |  **Distance from Tulsa to Chicago.** | Returns the distance by car and by bird. |
 |  **Distance from Dulles to Heathrow.** | Returns the distance by bird. |
-|  **Grocery stores open now.** | Returns a list of grocery stores still open during business hours. |
+|  **Grocery stores open now.** | Returns a list of grocery stores still open. |
 |  **Grocery stores open at 4AM.** | Returns a list of grocery stores that open their doors at 4:00 AM. |
 |  **Grocery stores open 24 hours.** | Returns a list of grocery stores that never close. |
 |  **Starbucks open now.** | Returns a list of Starbucks retail stores open right now. |
