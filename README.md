@@ -22,7 +22,8 @@ Complete list of Siri commands, updated March 2020.
 |  **How many characters in Mississippi?** | Returns the total number of characters in Mississippi. |
 |  **What song is this?** | Prompts user to provide music for audio scan and search. |
 |  **Tell me a joke.** | Tells a joke. |
-|  **Rock, paper, scissors.** | Reply to the challenge. |
+|  **Rock, paper, scissors.** | Replies1
+to the challenge. |
 |  **Distance from Salesforce Tower to the Space Needle.** | Returns the distance by car and by bird. |
 |  **Distance from Tulsa to Chicago.** | Returns the distance by car and by bird. |
 |  **Distance from Dulles to Heathrow.** | Returns the distance by bird. |
