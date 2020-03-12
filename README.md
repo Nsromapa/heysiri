@@ -87,6 +87,7 @@ Complete list of Siri commands, updated March 2020.
 
 |  **Siri Command** | Response |
 | :--- | :--- |
+|  **Show timer.** | Displays timer. |
 |  **Set timer for 20 minutes.** | Begins countdown from 20 minutes to zero. |
 |  **Stop timer.** | Pauses countdown. |
 |  **Pause timer.** | Pauses countdown. |
