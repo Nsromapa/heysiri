@@ -500,4 +500,4 @@ Complete list of Siri commands, updated March 2020.
 
 
 
-[mtm]: https://markdowntablemaker.com/mtm/about
+[mtm]: https://gsuite.google.com/marketplace/app/markdowntablemaker/46507245362
