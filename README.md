@@ -5,7 +5,7 @@ Complete list of Siri commands, updated March 2020.
 ## Overview
 
 + Siri commands are tested in iOS 13.
-+ Works well with AirPods.
++ Works well with AirPods or hands-free device.
 + Knowing more Siri commands will allow you to do more in hands-free mode.
 + Hands-free "hey siri" wake word helps you avoid contact with germs on surfaces.
 + Some commands require pre-installed apps developed by Apple.
