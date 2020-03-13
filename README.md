@@ -9,6 +9,7 @@ Complete list of Siri commands, updated March 2020.
 + Knowing more Siri commands will allow you to do more in hands-free mode.
 + Hands-free "hey siri" wake word helps you avoid contact with germs on surfaces.
 + Some commands require pre-installed apps developed by Apple.
++ Silent Mode switch must be off for audio responses.
 + Requires Internet connection.
 
 
