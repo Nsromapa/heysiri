@@ -113,6 +113,7 @@ Complete list of Siri commands, updated March 2020.
 |  **Spell Mississippi.** | Returns the audio spelling of Mississippi. Requires Silent Mode off. |
 |  **How many letters in Mississippi?** | Returns the total number of characters in Mississippi. |
 |  **How many characters in Mississippi?** | Returns the total number of characters in Mississippi. |
+|  **How many syllables in Mississippi?** | Returns the total number of syllables in Mississippi. |
 |  **What song is this?** | Prompts user to provide music for audio scan and search. |
 |  **World's oldest person.** | Returns information about the oldest person in the world. |
 |  **World's tallest person.** | Returns information about the tallest person in the world. |
