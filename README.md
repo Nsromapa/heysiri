@@ -196,12 +196,14 @@ Complete list of Siri commands, updated March 2020.
 
 |  **Siri Command** | Response |
 | :--- | :--- |
+|  **Subscribe to the Apple Keynotes podcast.** | Prompts user to confirm subscription to the podcast in the Poddcast App. |
 |  **Search WNYC podcasts.** | Returns search results of WNYC podcasts in Podcast App. |
 |  **Search WBUR podcasts.** | Returns search results of WBUR podcasts in Podcast App. |
 |  **Search Vox Media podcasts.** | Returns search results of Vox Media podcasts in Podcast App. |
 |  **Search Vergecast podcasts.** | Returns search results of Vergecast podcasts in Podcast App. |
 |  **Search Leo Laporte podcasts.** | Returns search results of Leo Laporte podcasts in Podcast App. 
-|  **Play Pivot podcast.** | Returns search results of WNYC podcasts in Podcast App. |
+|  **Play Apple Keynote podcast.** | Plays latest Apple Keynotes podcast episode. |
+|  **Play Pivot podcast.** | Plays the latest Pivot podcast episode in Podcast App. |
 |  **Play the latest Pivot podcast.** | Plays the last available podcast in feed. |
 |  **Play the earliest Pivot podcast.** | Plays the earliest available podcast in feed. |
 |  **Pause playback.** | Pauses podcast playback. |
