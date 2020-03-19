@@ -14,7 +14,7 @@ Complete list of Siri commands, updated March 2020.
 
 ## More Phone and Notifications Siri Commands
 
-> **NOTE:** Silent Mode must be switched off.
+> **NOTE:** Silent Mode must be switched off for audio responses.
 
 |  **Siri Command** | Response |
 | :--- | :--- |
