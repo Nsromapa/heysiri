@@ -47,6 +47,11 @@ Complete list of Siri commands, updated March 2020.
 | :--- | :--- |
 |  **Hi.** | Siri replies. |
 |  **Hello.** | Siri replies. |
+|  **Hello world.** | Siri replies. |
+|  **Good morning.** | Siri replies. |
+|  **Good afternoon.** | Siri replies. |
+|  **Good evening.** | Siri replies. |
+|  **Good night.** | Siri replies. |
 |  **Tell me a joke.** | Tells a joke. |
 |  **Rock, paper, scissors.** | Replies to the challenge. |
 |  **Good morning.** | Siri replies. |
