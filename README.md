@@ -201,7 +201,7 @@ Complete list of Siri commands, updated March 2020.
 
 |  **Siri Command** | Response |
 | :--- | :--- |
-|  **Subscribe to the Apple Keynotes podcast.** | Prompts user to confirm subscription to the podcast in the Poddcast App. |
+|  **Subscribe to the Apple Keynotes podcast.** | Prompts user to confirm subscription to the podcast feed. |
 |  **Search WNYC podcasts.** | Returns search results of WNYC podcasts in Podcast App. |
 |  **Search WBUR podcasts.** | Returns search results of WBUR podcasts in Podcast App. |
 |  **Search Vox Media podcasts.** | Returns search results of Vox Media podcasts in Podcast App. |
