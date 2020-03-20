@@ -311,6 +311,10 @@ Complete list of Siri commands, updated March 2020.
 
 |  **Siri Command** | Response |
 | :--- | :--- |
+|  **Show all reminders.** | Displays all reminders. |
+|  **Show all potato reminders.** | Displays all reminders with the keyword "potato" in the text (if availble). |
+|  **Show all reminders from February.** | Displays all reminders created in the month of February. |
+|  **Show all reminders from this month.** | Displays all reminders created during the current month. |
 |  **Delete all reminders.** | Prompts user to confirm deletion of all reminders. |
 |  **Remind me hourly.** | Prompts user for details about hourly reminder. |
 |  **Remind me every 2 hours.** | Prompts user for details about the reminder that repeats every 2 hours. |
