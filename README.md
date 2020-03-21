@@ -86,6 +86,7 @@ Complete list of Siri commands, updated March 2020.
 |  **Make a note.** | Prompts user for details about the new note. |
 |  **Note that the ocean is deep.** | Creates a new note "the ocean is deep". |
 |  **Note that the sky is blue.** | Creates a new note "the sky is blue". |
+|  **Make a note that the grass is green.** | Creates a new note "grass is green". |
 |  **Show notes.** | Display most recent notes. |
 |  **Show my notes.** | Display most recent notes. |
 |  **Read my notes.** | Display most recent notes, read the most recent note aloud, and prompts user for further action. |
@@ -140,6 +141,9 @@ Complete list of Siri commands, updated March 2020.
 | :--- | :--- |
 |  **Show structure of benzene.** | Displays stick stucture of molecular compound. |
 |  **Show structure of acetylcholine.** | Displays stick stucture of molecular compound. |
+|  **Chemical structure of nicotine.** | Returns the stick structure of molecular compound. |
+|  **Chemical formula for glucose.** | Returns the chemical formula of molecular compound. |
+|  **Chemical formula for hydrogen peroxide.** | Returns the chemical formula of molecular compound. |
 |  **What is the density of aluminum?** | Returns the density of aluminum. |
 |  **What is the atomic number of calcium?** | Returns the atomic number of calcium. |
 |  **What is the melting point of potassium?** | Returns the melting point of potassium. |
