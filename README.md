@@ -1,8 +1,6 @@
 # heysiri
 Complete list of Siri commands, updated March 2020.
 
-> # Updated March 20, 2020 !!!!!1!!
-
 ## Overview
 
 + Siri commands are tested in iOS 13 and iPadOS 13.
